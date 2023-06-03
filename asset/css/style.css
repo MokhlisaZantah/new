@@ -76,7 +76,7 @@ transition: 0.3s;
         /*  header    */
         
         header{
-          background-image: url("header.jpg");
+          background-image: url("../images/header.jpg");
           background-repeat: no-repeat;
           background-size: cover;
           background-attachment:fixed;
